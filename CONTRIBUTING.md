@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/ms-dos-editor-theme/issues
+[1]: https://github.com/IonicaBizau/msdos-editor-vs-theme/issues
 
 [2]: https://github.com/IonicaBizau/code-style

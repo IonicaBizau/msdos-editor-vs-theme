@@ -19,16 +19,16 @@
       }
     ]
   },
-  "homepage": "https://github.com/IonicaBizau/ms-dos-editor-theme#readme",
+  "homepage": "https://github.com/IonicaBizau/msdos-editor-vs-theme#readme",
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/ms-dos-editor-theme.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/msdos-editor-vs-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/ms-dos-editor-theme/issues"
+    "url": "https://github.com/IonicaBizau/msdos-editor-vs-theme/issues"
   },
   "blah": {
     "description": "It's important to install [this DOS VGA 437 Win font](https://www.dafont.com/perfect-dos-vga-437.font).",
