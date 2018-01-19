@@ -1,0 +1,37 @@
+{
+  "name": "ms-dos-editor-theme",
+  "displayName": "MS-DOS Editor Theme",
+  "description": "An MS-DOS Editor like theme for Visual Studio Code. It is blue.",
+  "version": "0.0.1",
+  "publisher": "ionicabizau",
+  "engines": {
+    "vscode": "^1.19.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MS-DOS Editor Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MS-DOS Editor Theme-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/IonicaBizau/ms-dos-editor-theme#readme",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/ms-dos-editor-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/ms-dos-editor-theme/issues"
+  },
+  "blah": {
+      "description": "It's important to install [this DOS VGA 437 Win font](https://www.dafont.com/perfect-dos-vga-437.font).",
+      "ex_img": "https://i.imgur.com/dPXIhK5.png"
+  }
+}
