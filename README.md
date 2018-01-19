@@ -7,7 +7,7 @@
 
 > An MS-DOS Editor like theme for Visual Studio Code. It is blue.
 
-It's important to install [this DOS VGA 437 Win font](https://www.dafont.com/perfect-dos-vga-437.font).
+It's important to install [this font (DOS VGA 437 Win)](https://www.dafont.com/perfect-dos-vga-437.font).
 
 [![ms-dos-editor-theme](https://i.imgur.com/dPXIhK5.png)](#)
 
@@ -42,7 +42,7 @@ Thanks! :heart:
 
 
 [patreon]: https://www.patreon.com/ionicabizau
-[amazon]: https://amzn.eu/hRo9sIZ
+[amazon]: http://amzn.eu/hRo9sIZ
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 
 [license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(https%3A%2F%2Fionicabizau.net)&year=2018#license-mit
