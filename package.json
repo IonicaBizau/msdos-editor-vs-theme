@@ -22,7 +22,6 @@
   "homepage": "https://github.com/IonicaBizau/msdos-editor-vs-theme#readme",
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
-  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/IonicaBizau/msdos-editor-vs-theme.git"
