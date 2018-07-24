@@ -9,7 +9,7 @@
 
 It's important to install [this font (DOS VGA 437 Win)](https://www.dafont.com/perfect-dos-vga-437.font).
 
-On Windows 7/10 you can install this font by downloading it and right-clicking the TTF file and select install from the list of actions.
+On Windows 7/10 you can install this font by downloading it and right-clicking the TTF file and selecting install from the list of available actions actions.
 
 [![ms-dos-editor-theme](https://i.imgur.com/dPXIhK5.png)](#)
 
