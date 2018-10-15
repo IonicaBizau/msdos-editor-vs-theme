@@ -9,7 +9,23 @@
 
 It's important to install [this font (DOS VGA 437 Win)](https://www.dafont.com/perfect-dos-vga-437.font).
 
+On Windows 7/10 you can install this font by downloading it and right-clicking the TTF file and selecting install from the list of available actions actions.
+
 [![ms-dos-editor-theme](https://i.imgur.com/dPXIhK5.png)](#)
+
+
+## Activating the Theme + Applying the Font
+
+- Search the VS Code extention library for `MS-DOS` and select `MS-DOS Editor Theme` from the results
+- After downloading the theme, apply it and reload VS Code
+- To get the proper font working edit your preferences under the `editor.fontFamily` option to include the `'PERFECT DOS VGA 437 Win'` font family.
+
+Your `editor.fontFamily` preferences JSON should look something like this:
+
+```json
+    "editor.fontFamily": "'PERFECT DOS VGA 437 Win', Consolas, 'Courier New', monospace"
+```
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
