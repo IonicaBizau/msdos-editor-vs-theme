@@ -2,7 +2,7 @@
   "name": "ms-dos-editor-theme",
   "displayName": "MS-DOS Editor Theme",
   "description": "An MS-DOS Editor like theme for Visual Studio Code. It is blue.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "ionicabizau",
   "engines": {
     "vscode": "^1.19.0"
